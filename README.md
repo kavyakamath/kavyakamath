@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kavyakamath
 - 👀 I’m interested in ...DataScience
 - 🌱 I’m currently learning ...skills related to DataScience
-- 💞️ I’m looking to collaborate on ...projects based on DataScience and finance
+- 💞️ I’m looking to collaborate on ...projects based on DataScience and Fintech
 - 📫 How to reach me ..linkedin id-https://www.linkedin.com/in/kavya-r-3363b5187
 
 <!---
