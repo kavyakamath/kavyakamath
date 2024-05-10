@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/kavya-r-3363b5187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavya-r-3363b5187" height="30" width="40" /></a>
 <a href="https://kaggle.com/kavya r kamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kavya r kamath" height="30" width="40" /></a>
 <a href="https://instagram.com/kavyarkamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavyarkamath" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@kavyarkamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kavyarkamath" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kavyarkamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kavyarkamath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
