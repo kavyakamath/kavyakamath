@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kavya.kamath@learner.manipal.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n1g48IRH8JDgZizqLuP59l4mAFXmIAJ4/view?usp=sharing](https://drive.google.com/file/d/1n1g48IRH8JDgZizqLuP59l4mAFXmIAJ4/view?usp=sharing)
+- 📄 My resume [https://drive.google.com/file/d/1n1g48IRH8JDgZizqLuP59l4mAFXmIAJ4/view?usp=sharing](https://drive.google.com/file/d/1n1g48IRH8JDgZizqLuP59l4mAFXmIAJ4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
