@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavya R Kamath</h1>
-<h3 align="center">A Data Science post grad, Interested in FinTech</h3>
+<h3 align="center">A Data Science post grad, Interested in Business Intelligence & Analytics</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a7577ca8b2235db95fecb980c9c712bcd7eebf05eb0da865f8b9211902735958/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343433353130302f73637265656e73686f74732f31353131343837382f6d656469612f34633661306336363039613933643134336262323433303266393161383635372e676966">
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kavyakamath?tab=repositories](https://github.com/kavyakamath?tab=repositories)
 
-- 📫 How to reach me **kavya.kamath@learner.manipal.edu**
+- 📫 How to reach me **kavyarkamath@gmail.com**
 
 - 📄 My resume [https://drive.google.com/file/d/1n1g48IRH8JDgZizqLuP59l4mAFXmIAJ4/view?usp=sharing](https://drive.google.com/file/d/1n1g48IRH8JDgZizqLuP59l4mAFXmIAJ4/view?usp=sharing)
 
